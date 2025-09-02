@@ -1,5 +1,4 @@
-import logo from './logo.svg';
-import AiDemo from './Aidemo';
+import AiDemo from './AiDemo';
 import './App.css';
 
 function App() {
