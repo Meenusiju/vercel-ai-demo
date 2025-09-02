@@ -1,4 +1,4 @@
-import AiDemo from './AiDemo';
+import AiDemo from './Aidemo';
 import './App.css';
 
 function App() {
